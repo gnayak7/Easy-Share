@@ -1,0 +1,5 @@
+An Easy-Share is an application which makes sharing easy.
+
+Tweet : This makes use of OAuth to authenticate user and allows to tweet easily. for eg : select a text from an ebook you are reading -> right click and select tweet.
+Photo Sharing : The application helps to share photos stored in your pc directly without logging into your profile everytime you want to share them.(developed for flickr).
+Videos: upload videos stored in your desktop to youtube.
